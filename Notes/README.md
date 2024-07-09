@@ -2,6 +2,7 @@
 * https://www.kaggle.com/datasets/colearninglounge/predicting-pulsar-starintermediate/data
 * https://datauab.github.io/pulsar_stars
 * htru2 official dataset: https://archive.ics.uci.edu/dataset/372/htru2
+* Balancing and Genetic programming Research Paper: https://www.sciencedirect.com/science/article/abs/pii/S2213133724000167
 ### Importing HTRU1 (PyTorch)
 ```python
 from torchvision import datasets
